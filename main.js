@@ -1,4 +1,4 @@
-var studioID = 3479432; // Set this to your own studio ID!
+var studioID = 6234813; // Set this to your own studio ID!
 var backupCurators = ["technoboy10*", "The_Grits", "4LeafClovR", "puppymk", "Malik44", "CrazyNimbus", "fmtfmtfmt2", "GreenIeaf", "st19_galla", "joletole", "Hamish752", "Abstract-", "getbent", "Ionosphere", "Thinking_Upward", "PackersRuleGoPack", "Csoup", "coke11", "Thomas1-1", "-NinjaNarwhal-", "BY147258369", "-MidnightStudios", "samirathecatlol", "mundofinkyenglish", "natalie*", "ceebee*", "speakvisually*"];
 
 function getID() {
